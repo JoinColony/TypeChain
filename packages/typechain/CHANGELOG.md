@@ -1,5 +1,11 @@
 # typechain
 
+## 7.1.0
+
+### Minor Changes
+
+- a59ae6e: Prefer `import type` in generated files when possible
+
 ## 7.0.1
 
 ### Patch Changes

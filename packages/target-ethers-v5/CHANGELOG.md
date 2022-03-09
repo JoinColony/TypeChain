@@ -1,5 +1,11 @@
 # @typechain/ethers-v5
 
+## 9.1.0
+
+### Minor Changes
+
+- a59ae6e: Prefer `import type` in generated files when possible
+
 ## 9.0.0
 
 ### Major Changes
